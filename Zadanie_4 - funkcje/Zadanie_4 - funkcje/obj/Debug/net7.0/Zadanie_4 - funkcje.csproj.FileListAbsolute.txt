@@ -1,0 +1,5 @@
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_4 - funkcje\Zadanie_4 - funkcje\obj\Debug\net7.0\Zadanie_4 - funkcje.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_4 - funkcje\Zadanie_4 - funkcje\obj\Debug\net7.0\Zadanie_4 - funkcje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_4 - funkcje\Zadanie_4 - funkcje\obj\Debug\net7.0\Zadanie_4 - funkcje.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_4 - funkcje\Zadanie_4 - funkcje\obj\Debug\net7.0\Zadanie_4 - funkcje.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_4 - funkcje\Zadanie_4 - funkcje\obj\Debug\net7.0\Zadanie_4 - funkcje.csproj.CoreCompileInputs.cache

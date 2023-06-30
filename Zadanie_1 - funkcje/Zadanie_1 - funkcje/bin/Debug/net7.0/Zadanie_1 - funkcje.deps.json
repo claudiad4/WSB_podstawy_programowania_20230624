@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Zadanie_1 - funkcje/1.0.0": {
+        "runtime": {
+          "Zadanie_1 - funkcje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadanie_1 - funkcje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

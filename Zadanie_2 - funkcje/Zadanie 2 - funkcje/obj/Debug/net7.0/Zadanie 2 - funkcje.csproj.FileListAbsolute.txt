@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\bin\Debug\net7.0\Zadanie 2 - funkcje.exe
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\bin\Debug\net7.0\Zadanie 2 - funkcje.deps.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\bin\Debug\net7.0\Zadanie 2 - funkcje.runtimeconfig.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\bin\Debug\net7.0\Zadanie 2 - funkcje.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\bin\Debug\net7.0\Zadanie 2 - funkcje.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\Zadanie 2 - funkcje.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\Zadanie 2 - funkcje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\Zadanie 2 - funkcje.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\Zadanie 2 - funkcje.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\Zadanie 2 - funkcje.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\Zadanie 2 - funkcje.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\refint\Zadanie 2 - funkcje.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\Zadanie 2 - funkcje.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\Zadanie 2 - funkcje.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie 2 - funkcje\Zadanie 2 - funkcje\obj\Debug\net7.0\ref\Zadanie 2 - funkcje.dll
